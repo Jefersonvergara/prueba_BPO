@@ -26,19 +26,19 @@ post /api/empleado/create
 
 # departamento
 
-# Obtener lista de departamento
+## Obtener lista de departamento
 get /api/departamento
 
-# Obtener un departamento
+## Obtener un departamento
 get /api/departamento/:id 
 
-# Eliminar un departamento
+## Eliminar un departamento
 delete /api/departamento/delete/:id 
 
-# Actualizar un departamento
+## Actualizar un departamento
 put /api/departamento/update/:id
 
-# Crear un departamento
+## Crear un departamento
 post /api/departamento/create
 
 
